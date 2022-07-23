@@ -84,7 +84,7 @@ export function postArticleAPI(payload) {
                         },
                         video : payload.video,
                         sharedImg: downloadURL,
-                        comments:0,
+                        comments:3,
                         description:payload.description,
                     });
                     dispatch(setLoading(false));

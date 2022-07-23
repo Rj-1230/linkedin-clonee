@@ -330,6 +330,7 @@ li{
     button{
         display:flex;
         border:none;
+        background-color:white;
         border-radius:10px;
         img{
             height:12px;
@@ -350,9 +351,16 @@ button{
     display:inline-flex;
     align-items:center;
     padding:8px;
+    margin-right:10px;
+    /* border: 1px solid #0a66c2;  */
+    border:none;
+    background-color:white;
+    border-radius:10px;
     color:#0a66c2;
     /* margin-right:20px; */
-
+    &:hover{
+        cursor:pointer;
+    }
     img{
         height:20px;
     
