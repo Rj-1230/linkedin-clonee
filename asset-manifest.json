@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/linkedin-clonee/static/css/main.97f47f56.css",
+    "main.js": "/linkedin-clonee/static/js/main.e17a664a.js",
+    "index.html": "/linkedin-clonee/index.html",
+    "main.97f47f56.css.map": "/linkedin-clonee/static/css/main.97f47f56.css.map",
+    "main.e17a664a.js.map": "/linkedin-clonee/static/js/main.e17a664a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97f47f56.css",
+    "static/js/main.e17a664a.js"
+  ]
+}
