@@ -15,7 +15,7 @@ function App(props) {
   
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
          <Routes>
           <Route exact path ='/' element={<Login />}></Route>
           <Route exact path = '/home' element={<><Header /><Home /></>}></Route>
